@@ -2,9 +2,10 @@
 
 ### Machine Learning Course — MEEC FEUP, 2025
 
-## Project Grade
+### Project Grade
 The project was awarded a grade of **20/20**.
 
+### Project Objectives and Approach
 This repository contains **Project 2** from the *Machine Learning* course at **FEUP**. The project applies **machine learning techniques** to **2D sensor data**, specifically using **LiDAR measurements** to model and predict the environment. The project compares the performance of **Neural Networks (NN)** with **K-Nearest Neighbors (K-NN)** for classification tasks, and uses **K-means clustering** to segment the data when multiple objects are present in the environment. The project focuses on the following:
 
 - **2D state estimation** with **LIDAR measurements**
